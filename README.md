@@ -1,4 +1,4 @@
-# Simple Calculator
+## Simple Calculator
 
 A simple Python program to perform basic and advanced mathematical operations.
 
